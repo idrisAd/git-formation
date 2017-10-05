@@ -5,3 +5,4 @@ modification durant un stash sur une autre branche
 modification sur github
 modificationn avant rebase
 modificationn avant rebase again
+coucou c'est moi
