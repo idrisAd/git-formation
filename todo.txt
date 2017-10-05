@@ -4,3 +4,4 @@ troisieme modification
 modification durant un stash sur une autre branche
 modification sur github
 modificationn avant rebase
+modificationn avant rebase again
